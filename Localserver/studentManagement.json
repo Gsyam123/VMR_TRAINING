@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "studentName": "Syam Kumar G",
+      "studentEmail": "syam@gmail.com",
+      "studentPassword": "Gsyam123",
+      "studentMobile": "950244048012345678",
+      "id": 1
+    },
+    {
+      "studentName": "Naveen",
+      "studentEmail": "naveen@gmail.com",
+      "studentPassword": "sdfghj",
+      "studentMobile": "456789",
+      "id": 2
+    },
+    {
+      "studentName": "kumar",
+      "studentEmail": "kumar@gmailcom",
+      "studentPassword": "hjkl2789",
+      "studentMobile": "98765432",
+      "id": 3
+    },
+    {
+      "studentName": "Goli syam kumar",
+      "studentEmail": "syamkumar@gmail.com",
+      "studentPassword": "sghjk123",
+      "studentMobile": "6305146628",
+      "id": 5
+    }
+  ]
+}

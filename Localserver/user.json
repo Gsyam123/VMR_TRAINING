@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "userName": "Syam Kumar",
+      "userEmail": "syam@gmail.com.in",
+      "userMobile": "9502440480",
+      "userGender": "male",
+      "userAddress": "Chirala",
+      "userSkills": ["JavaScript", "CSS", "ReactJs"],
+      "id": 19
+    },
+    {
+      "userName": "kumar",
+      "userEmail": "kumar@gmail.com",
+      "userMobile": "1234",
+      "userGender": "female",
+      "userAddress": "Chittor",
+      "userSkills": ["HTML", "ReactJs", "JavaScript"],
+      "id": 20
+    }
+  ],
+  "formUsers": [
+    {
+      "uName": "syam kumar",
+      "uEmail": "syam@gmail.com",
+      "uPassword": "asd234",
+      "uMobile": "9502440480",
+      "uGender": "male",
+      "id": 1
+    },
+    {
+      "uName": "syam",
+      "uEmail": "syam@gmail.com",
+      "uPassword": "dfghjk",
+      "uMobile": "98785987675",
+      "uGender": "male",
+      "id": 2
+    },
+    {
+      "uName": "naveen",
+      "uEmail": "naveen@gmail.com",
+      "uPassword": "dfg",
+      "uMobile": "645987675",
+      "uGender": "male",
+      "id": 3
+    },
+    {
+      "uName": "kumar",
+      "uEmail": "kumar@gmail.com",
+      "uPassword": "gfdhgfkj",
+      "uMobile": "9875434536",
+      "uGender": "female",
+      "id": 4
+    }
+  ]
+}
